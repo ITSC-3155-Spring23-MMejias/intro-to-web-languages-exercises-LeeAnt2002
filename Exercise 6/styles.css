@@ -1,0 +1,21 @@
+
+body {
+    font-style: oblique;
+    background-color: blue;
+}
+
+
+#main-title {
+     text-align: center;
+     font-size:x-large ;
+     font-weight: bolder;
+     color: white;
+}
+
+ .content {
+    text-align: left;
+    font-size: medium;
+    font-weight: bold;
+    margin-bottom: 12px;
+    color: white;
+}
